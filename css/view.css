@@ -1,0 +1,31 @@
+.btn {
+    margin-top: 1rem;
+    display: inline-block;
+    border: 0.2rem solid #10221b;
+    color: #10221b;
+    cursor: pointer;
+    background: none;
+    /* font-size: 1.7rem;
+    padding: 1rem 3rem; */
+    width: 100px;
+    height: 45px;
+}
+
+.btn:hover {
+    background: #10221b;
+    color: #fff;
+}
+.tables{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.table1{
+    margin: 0px,20px,20px,20px;
+}
+.table2{
+    margin:  0px,20px,20px,20px;
+}
+.title{
+    margin-top: 30px;
+}
